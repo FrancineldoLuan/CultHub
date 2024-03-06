@@ -1,5 +1,5 @@
-#EasyEntertain
-API do projeto EasyEntertain - Aplicativo de entretenimento para organização de Filmes, Series, Livros, Jogos e Musicas.
+#CultHub
+API do projeto CultHub - Aplicativo de entretenimento para organização de Filmes, Series, Livros, Jogos e Musicas.
 
 ## Tarefas
 

@@ -49,7 +49,7 @@ public class ItemController {
                 return ResponseEntity.status(HttpStatus.OK).body(item);
         }
 
-        //TODO refatorar com stream
+        
 
         return ResponseEntity.status(HttpStatus.NOT_FOUND).build();
     }
